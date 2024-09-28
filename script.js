@@ -1,4 +1,4 @@
-const apiKey = 'b3128ce3023d633b549b2ad49791b750'; // Chave da API de clima
+const apiKey = '(sua chave de API do Openweather aqui)'; // Chave da API de clima
 const apiUrlCurrent = 'https://api.openweathermap.org/data/2.5/weather'; // Clima atual
 const apiUrlForecast = 'https://api.openweathermap.org/data/2.5/forecast'; // Previsão de 5 dias
 const locationElement = document.getElementById('location');
